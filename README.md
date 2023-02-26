@@ -1,4 +1,4 @@
-# telecom-analysis-power-BI
+# Telecom-analysis-power-BI
 dashboard for telecom analysis database with Power BI Desktop
 Design Dashboard covers the below points
  Calculate AHT, PCA% &amp; SLA% and visualize them
